@@ -4,43 +4,43 @@ This repository contains materials and notes from a university course on algorit
 
 Table of Contents
 
-**Introduction to Graphs**
+🧭 Introduction to Graphs
 Graph representation methods
-**Graph Search Algorithms**
+🔍 Graph Search Algorithms
 Depth-First Search (DFS)
 Breadth-First Search (BFS)
 General graph traversal strategies
-**Shortest Path Algorithms**
+🛣️ Shortest Path Algorithms
 Introduction to shortest path problems
 Ford-Bellman Algorithm
 Dijkstra’s Algorithm
 A* Search Algorithm
 Comparison of explored areas: Dijkstra vs A*
-**Advanced Shortest Path Techniques**
+🔄 Advanced Shortest Path Techniques
 Shortest paths in Directed Acyclic Graphs (DAGs)
 All-Pairs Shortest Paths:
 Floyd-Warshall Algorithm
 Johnson’s Algorithm
-**Traveling Salesman Problem (TSP)**
+🧳 Traveling Salesman Problem (TSP)
 Exhaustive search (with backtracking)
 Branch and Bound method
 Algorithm execution walkthrough
 Approximation algorithms
-**Network Flows**
+🌊 Network Flows
 Introduction and basic definitions
 Residual networks
 Ford-Fulkerson Method
 Dinic’s Algorithm
 Preflow-push algorithm
 Minimum-cost maximum-flow
-**Computational Geometry**
+📐 Computational Geometry
 Basics: vector cross product, segment intersection, point-in-polygon test
 Convex Hull:
 Graham Scan
 Jarvis March
 QuickHull
 Intersection of n line segments
-**Pattern Matching in Text**
+🔎 Pattern Matching in Text
 Problem formulation and naive search
 Knuth-Morris-Pratt (KMP) Algorithm
 Boyer-Moore Algorithm
