@@ -1,0 +1,17 @@
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/bin/Debug/net9.0/2025lab2
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/bin/Debug/net9.0/2025lab2.deps.json
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/bin/Debug/net9.0/2025lab2.runtimeconfig.json
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/bin/Debug/net9.0/2025lab2.dll
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/bin/Debug/net9.0/2025lab2.pdb
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/bin/Debug/net9.0/TestSet.dll
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/obj/Debug/net9.0/2025lab2.csproj.AssemblyReference.cache
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/obj/Debug/net9.0/2025lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/obj/Debug/net9.0/2025lab2.AssemblyInfoInputs.cache
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/obj/Debug/net9.0/2025lab2.AssemblyInfo.cs
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/obj/Debug/net9.0/2025lab2.csproj.CoreCompileInputs.cache
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/obj/Debug/net9.0/2025lab2.csproj.Up2Date
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/obj/Debug/net9.0/2025lab2.dll
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/obj/Debug/net9.0/refint/2025lab2.dll
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/obj/Debug/net9.0/2025lab2.pdb
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/obj/Debug/net9.0/2025lab2.genruntimeconfig.cache
+/Users/konradburdach/RiderProjects/ConsoleApp3/2025lab2/obj/Debug/net9.0/ref/2025lab2.dll
