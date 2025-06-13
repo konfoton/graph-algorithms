@@ -89,4 +89,4 @@ This repository serves as a structured collection of algorithmic techniques stud
 
 ## License
 
-Feel free to use the content for educational purposes. Contributions and improvements are welcome.
+Feel free to use the content for educational purposes.
